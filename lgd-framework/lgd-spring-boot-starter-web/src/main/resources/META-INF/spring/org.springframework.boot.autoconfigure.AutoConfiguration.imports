@@ -1,0 +1,4 @@
+cn.zj.lgd.framework.apilog.config.LgdApiLogAutoConfiguration
+cn.zj.lgd.framework.jackson.config.LgdJacksonAutoConfiguration
+cn.zj.lgd.framework.swagger.config.LgdSwaggerAutoConfiguration
+cn.zj.lgd.framework.web.config.LgdWebAutoConfiguration

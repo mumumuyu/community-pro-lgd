@@ -1,0 +1,2 @@
+cn.zj.lgd.framework.datasource.config.LgdDataSourceAutoConfiguration
+cn.zj.lgd.framework.mybatis.config.LgdMybatisAutoConfiguration

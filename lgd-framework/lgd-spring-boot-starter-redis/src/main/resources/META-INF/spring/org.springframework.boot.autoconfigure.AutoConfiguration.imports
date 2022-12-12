@@ -1,0 +1,2 @@
+cn.zj.lgd.framework.redis.config.LgdRedisAutoConfiguration
+cn.zj.lgd.framework.redis.config.LgdCacheAutoConfiguration

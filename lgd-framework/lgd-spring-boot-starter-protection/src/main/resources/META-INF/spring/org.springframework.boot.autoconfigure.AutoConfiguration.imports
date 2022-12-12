@@ -1,0 +1,2 @@
+cn.zj.lgd.framework.idempotent.config.LgdIdempotentConfiguration
+cn.zj.lgd.framework.lock4j.config.LgdLock4jConfiguration

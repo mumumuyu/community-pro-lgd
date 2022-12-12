@@ -1,0 +1,2 @@
+cn.zj.lgd.framework.tracer.config.LgdTracerAutoConfiguration
+cn.zj.lgd.framework.tracer.config.LgdMetricsAutoConfiguration

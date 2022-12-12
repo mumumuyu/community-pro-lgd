@@ -1,0 +1,2 @@
+cn.zj.lgd.framework.security.config.LgdSecurityAutoConfiguration
+cn.zj.lgd.framework.security.config.LgdWebSecurityConfigurerAdapter
