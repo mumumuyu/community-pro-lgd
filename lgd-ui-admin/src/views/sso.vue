@@ -45,7 +45,7 @@
     </div>
     <!-- footer -->
     <div class="footer">
-      Copyright © 2020-2022 iocoder.cn All Rights Reserved.
+      Copyright © 2022 LGD All Rights Reserved.
     </div>
   </div>
 </template>
